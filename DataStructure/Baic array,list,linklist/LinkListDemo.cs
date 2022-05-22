@@ -26,12 +26,12 @@ namespace DataStructure
         {
             LinkedList<int> ll = new LinkedList<int>();
 
-            //ll.AddFirst(10);
-            //ll.AddLast(20);
-            //ll.AddFirst(9);
-            //ll.AddLast(21);
-            //ll.AddFirst(8);
-            //ll.AddLast(22);
+            ll.AddFirst(10);
+            ll.AddLast(20);
+            ll.AddFirst(9);
+            ll.AddLast(21);
+            ll.AddFirst(8);
+            ll.AddLast(22);
 
             Console.Write("Content of Linked List: ");
             foreach (int val in ll)
