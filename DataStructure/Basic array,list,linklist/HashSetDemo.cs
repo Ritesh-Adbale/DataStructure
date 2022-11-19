@@ -21,6 +21,7 @@ namespace DataStructure
             hs.Add("USA");
             hs.Add("Brazil");
             hs.Add("Canada");
+            hs.Add("Canada");
 
             foreach (string  str in hs)
             {
