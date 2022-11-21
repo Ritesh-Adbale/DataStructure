@@ -1,0 +1,1 @@
+"console": "externalTerminal", use this in launch.json to use pop terminal and accept value while debugging through user.
