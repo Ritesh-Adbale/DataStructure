@@ -11,7 +11,7 @@ namespace DataStructure
         {
             if (n == 0)
                 return 1;
-            int partialans = func(n - 1);
+            int partialans = func(n - 1); //Copy of function is keep in memory
             // Console.WriteLine("n"+n);
             // Console.WriteLine("p"+partialans);
             return n*partialans;
